@@ -11,4 +11,4 @@ A simple scraper which scrapes list of top 100 songs
 * Open the folder in terminal
 * Run `sudo npm install`
 * Run `node app`
-* Hurrah there you go!!
+* Hurrah there you go!! Use it in the way you need.
